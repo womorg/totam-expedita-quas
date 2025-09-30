@@ -1,10 +1,10 @@
 {
   "name": "@womorg/totam-expedita-quas",
-  "version": "13.36.351",
+  "version": "13.36.352",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-commodi-officia": "^1.0.0",
